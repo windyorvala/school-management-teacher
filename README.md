@@ -3,7 +3,7 @@
 This is a UI/UX prototype created using Figma for a school management system.
 
 ## 🔗 Prototype Link
-https://www.figma.com/proto/SYDME7udaqX3kQcSYIk39h/School-Management-System?node-id=0-1&t=Yy53doDSaN0UL5IO-1)
+https://www.figma.com/design/SYDME7udaqX3kQcSYIk39h/School-Management-System--versi-guru-?node-id=0-1&m=dev&t=kzYxCfKMJr2CTHtq-1
 
 ## 📌 Features
 - Student, teacher, and class management
