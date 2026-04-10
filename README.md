@@ -1,16 +1,14 @@
-## Hi there 👋
+# UI/UX Prototype App
 
-<!--
-**windyorvala/windyorvala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a UI/UX prototype created using Figma.
 
-Here are some ideas to get you started:
+## 🔗 Prototype Link
+(https://www.figma.com/proto/SYDME7udaqX3kQcSYIk39h/School-Management-System?node-id=0-1&t=Yy53doDSaN0UL5IO-1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Features
+- Simple UI design
+- Interactive prototype
+- Focus on user experience
+
+## 🛠 Tools
+- Figma
